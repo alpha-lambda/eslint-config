@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alpha-lambda/eslint-config/issues"
   },
-  "homepage": "https://github.com/alpha-lambda/eslint-config#readme"
+  "homepage": "https://github.com/alpha-lambda/eslint-config#readme",
+  "dependencies": {
+    "eslint-plugin-import": "^2.18.2"
+  }
 }
